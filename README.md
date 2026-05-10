@@ -1,5 +1,7 @@
 # MelodyScript-DSL
 
+[Repository: https://github.com/abdulwasay004/MelodyScript-DSL](https://github.com/abdulwasay004/MelodyScript-DSL)
+
 A domain-specific language (DSL) compiler for algorithmic music composition. MelodyScript allows you to write code that generates music, combining procedural programming with music theory primitives.
 
 ## Project Overview
